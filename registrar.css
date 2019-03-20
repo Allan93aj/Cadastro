@@ -1,0 +1,63 @@
+body{
+    background-image: url(../img/homemaranha.jpg);
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    
+    
+}
+
+#registerform{
+    width: 400px;
+    background-color: #24303c;
+    padding: 40px;
+    color: white;
+    font-family: tahoma;
+    border-radius: 7px;
+    
+}
+
+#registerform h5{
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 22px;
+    font-weight: normal;
+    
+}
+
+#txtbox{
+    background-color: #24303c;
+    border: 1px solid blue;
+    font-size: 18px;
+    font-family: tahoma;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border-radius: 5px;
+    color: white;
+}
+
+ #registerform p{
+    float: left;
+    font-size: 18px;
+    margin: 0 5px 0 0;    
+}
+
+#registerform a{
+    font-size: 18px;
+    color: white;
+}
+
+#btn{
+    width: 100%;
+    margin: 10px 0;
+    background-color: #1f53c5;
+    border: 0;
+    color: white;
+    padding: 12px;
+    font-size: 18px;
+    font-family: tahoma;
+    
+}
+
