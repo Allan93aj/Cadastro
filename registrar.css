@@ -1,5 +1,5 @@
 body{
-    background-image: url(../img/homemaranha.jpg);
+    background-image: url(./img/spiderwpp.jpg);
     background-repeat: repeat-x;
     background-size: cover;
     background-position: center center;
@@ -21,7 +21,7 @@ body{
 #registerform h5{
     margin: 0;
     margin-bottom: 20px;
-    font-size: 22px;
+    font-size: 200px;
     font-weight: normal;
     
 }
